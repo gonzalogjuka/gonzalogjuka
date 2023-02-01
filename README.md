@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hey 👋, I'm Gonzalo</h1>
+<h3 align="center">A student of python development from Argentina</h3>
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=gonzalogjuka&color=orange&style=plastic&label=Profile+Views alt="gonzalogjuka"/> </p>
 
-<!--
-**gonzalogjuka/gonzalogjuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as a App Support at FKtech
 
-Here are some ideas to get you started:
+- 🌱 I’m working on my own stuff and crazy ideas or read some book of python to improve my logical in my free time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are publics at https://github.com/gonzalogjuka
+
+- 📫 How to reach me gonzalo.gjuka@hotmail.com
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/gonzalo-gjuka/" target="blank">LinkedIn</a>
+  <br>
+<a href="https://github.com/gonzalogjuka" target="blank">My Actived Repos</a>
+</p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gonzalogjuka&theme=dark" alt="gonzalogjuka" /></p>
