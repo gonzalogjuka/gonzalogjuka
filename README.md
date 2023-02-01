@@ -10,6 +10,10 @@
 
 - 📫 How to reach me gonzalo.gjuka@hotmail.com
 
+<h3 align="left">Books I'm reading:</h3>
+
+- Python for Everybody = Ebook Free (https://www.py4e.com/book)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gonzalo-gjuka/" target="blank">LinkedIn</a>
