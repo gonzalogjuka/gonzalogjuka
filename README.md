@@ -2,8 +2,8 @@
 <h3 align="center">A student of python development from Argentina</h3>
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=gonzalogjuka&color=orange&style=plastic&label=Profile+Views alt="gonzalogjuka"/> </p>
 
-- 🔭 I’m currently working as a App Support at FKtech
-
+- 🔭 I’m currently working as a Cloud Support Engenieer at PinApp
+  
 - 🌱 I’m working on my own stuff and crazy ideas or read some book of python to improve my logical in my free time
 
 - 👨‍💻 All of my projects are publics at https://github.com/gonzalogjuka
