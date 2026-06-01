@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Gonzalo</h1>
-<h3 align="center">A python developer from Argentina</h3>
+<h3 align="center">CEO of Control Cloud</h3>
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=gonzalogjuka&color=orange&style=plastic&label=Profile+Views alt="gonzalogjuka"/> </p>
 
 - 🔭 I’m currently working as a DevOps at CybeleSoft and building <a href="www.controlcloud.dev" target="blank">
