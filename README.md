@@ -2,11 +2,9 @@
 <h3 align="center">A python developer from Argentina</h3>
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=gonzalogjuka&color=orange&style=plastic&label=Profile+Views alt="gonzalogjuka"/> </p>
 
-- 🔭 I’m currently working as a DevOps at CybeleSoft
+- 🔭 I’m currently working as a DevOps at CybeleSoft and building controlcloud.dev
 
-- 👨‍💻 All of my projects are publics at https://github.com/gonzalogjuka
-
-- 📫 How to reach me gonzalo.gjuka@hotmail.com
+- 📫 How to reach me: gonzalo.gjuka@hotmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
