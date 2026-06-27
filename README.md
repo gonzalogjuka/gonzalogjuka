@@ -14,7 +14,7 @@ I design and automate cloud infrastructure across **Oracle Cloud (OCI)**, **Azur
 
 🚀 I'm the founder of **[Control Cloud](https://www.controlcloud.dev)** — a platform I'm building to make cloud infrastructure management simpler, more visible and easier to operate.
 
-- 🔭 Currently working as a **DevOps Engineer @ Cybele Software** and building **[Control Cloud](https://www.controlcloud.dev)**
+- 🔭 Currently working as a **DevOps Engineer** and building **[Control Cloud](https://www.controlcloud.dev)**
 - 🌐 Check out my project: **[controlcloud.dev](https://www.controlcloud.dev)**
 - 📫 How to reach me: **gonzalo.gjuka@hotmail.com**
 
