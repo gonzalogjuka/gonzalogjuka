@@ -2,7 +2,7 @@
 <h3 align="center">CEO of Control Cloud</h3>
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=gonzalogjuka&color=orange&style=plastic&label=Profile+Views alt="gonzalogjuka"/> </p>
 
-- 🔭 I’m currently working as a DevOps at CybeleSoft and building control cloud
+- 🔭 I’m currently working as a DevOps at CybeleSoft and building control cloud - controlcloud.dev
 - 📫 How to reach me: gonzalo.gjuka@hotmail.com
 
 <h3 align="left">Connect with me:</h3>
