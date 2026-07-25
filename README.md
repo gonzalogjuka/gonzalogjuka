@@ -49,7 +49,3 @@ I design and automate cloud infrastructure across **Oracle Cloud (OCI)**, **Azur
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=gonzalogjuka&theme=dark" alt="gonzalogjuka streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gonzalogjuka&show_icons=true&theme=dark&count_private=true" alt="gonzalogjuka github stats" />
-</p>
