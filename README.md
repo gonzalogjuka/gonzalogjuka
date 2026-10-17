@@ -1,10 +1,6 @@
 <h1 align="center">Hey 👋, I'm Gonzalo</h1>
 <h3 align="center">DevOps & Infrastructure Engineer · Founder of Control Cloud</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gonzalogjuka&color=orange&style=plastic&label=Profile+Views" alt="gonzalogjuka"/>
-</p>
-
 ---
 
 ### 👨‍💻 About me
